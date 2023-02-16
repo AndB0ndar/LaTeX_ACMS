@@ -1,6 +1,10 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{Цель практическои работы}{2}{}%
-\contentsline {section}{\numberline {1}Анализ существующих сайтов}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Аптека 36.6}{2}{}%
+\contentsline {section}{\numberline {1}Анализ существующих сайтов}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Аптека 36.6}{3}{}%
 \contentsline {subsection}{\numberline {1.2}Горздрав}{3}{}%
-\contentsline {section}{\numberline {2}Основные необходимы функции}{3}{}%
+\contentsline {section}{\numberline {2}Основные необходимы функции}{4}{}%
+\contentsline {section}{\numberline {3}Ожидаемые результаты реализации}{6}{}%
+\contentsline {section}{\numberline {4}Диаграмму вариантов использования}{6}{}%
+\contentsline {section}{Ответы на вопросы}{8}{}%
+\contentsline {section}{Вывод}{10}{}%

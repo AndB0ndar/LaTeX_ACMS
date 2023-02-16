@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  15 FEB 2023 14:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  16 FEB 2023 20:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -454,26 +454,70 @@ LaTeX Font Info:    External font `cmex7' loaded for size
  (./FirstTask/pract1.tex
 [2
 
-] [3] [4]) [5] (./main.aux (./FirstTask/pract1.aux)) ) 
+] [3]
+Overfull \hbox (68.90941pt too wide) in paragraph at lines 81--81
+[]\T2A/cmr/m/n/14.4 Таблица 1. |[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+[]\T2A/cmr/m/n/14.4 Предоставление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]\T2A/cmr/m/n/14.4 Сохранение дан-
+ []
+
+
+Overfull \hbox (0.52502pt too wide) in paragraph at lines 83--101
+[][] 
+ []
+
+[4] [5]
+<./FirstTask//use_case_diagram.png, id=29, 653.44125pt x 482.80376pt>
+File: ./FirstTask//use_case_diagram.png Graphic file (type png)
+<use ./FirstTask//use_case_diagram.png>
+Package pdftex.def Info: ./FirstTask//use_case_diagram.png  used on input line 
+120.
+(pdftex.def)             Requested size: 328.6279pt x 242.80838pt.
+ [6 <./FirstTask//use_case_diagram.png>]
+<./FirstTask//use_case_diagram_with_acter.png, id=35, 748.7975pt x 482.80376pt>
+
+File: ./FirstTask//use_case_diagram_with_acter.png Graphic file (type png)
+<use ./FirstTask//use_case_diagram_with_acter.png>
+Package pdftex.def Info: ./FirstTask//use_case_diagram_with_acter.png  used on 
+input line 131.
+(pdftex.def)             Requested size: 328.6279pt x 211.88914pt.
+<./FirstTask//use_case_complite.png, id=36, 748.7975pt x 507.8975pt>
+File: ./FirstTask//use_case_complite.png Graphic file (type png)
+<use ./FirstTask//use_case_complite.png>
+Package pdftex.def Info: ./FirstTask//use_case_complite.png  used on input line
+ 141.
+(pdftex.def)             Requested size: 328.6279pt x 222.9021pt.
+ [7 <./FirstTask//use_case_diagram_with_acter.png> <./FirstTask//use_case_compl
+ite.png>] [8] [9] [10]) [11]
+(./main.aux (./FirstTask/pract1.aux)) ) 
 Here is how much of TeX's memory you used:
- 5024 strings out of 479721
- 85504 string characters out of 5887697
- 378435 words of memory out of 5000000
- 22911 multiletter control sequences out of 15000+600000
- 477484 words of font info for 42 fonts, out of 8000000 for 9000
+ 5074 strings out of 479721
+ 87025 string characters out of 5887697
+ 381446 words of memory out of 5000000
+ 22957 multiletter control sequences out of 15000+600000
+ 478375 words of font info for 43 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 70i,5n,77p,335b,205s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/arbon/.texlive202
-1/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1440.600pk> </home/arbon/.texlive2021
-/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </home/arbon/.texlive2021/
-texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1440.600pk> </home/arbon/.texlive2021
-/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.600pk> </home/arbon/.texlive2021/
-texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/arbon/.texlive2021/t
-exmf-var/fonts/pk/ljfour/lh/lh-t2a/labx2074.600pk>
-Output written on main.pdf (5 pages, 70759 bytes).
+ 70i,11n,77p,314b,284s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/arbon/.texlive2021/texmf-var/fon
+ts/pk/ljfour/lh/lh-t2a/lati1440.600pk> </home/arbon/.texlive2021/texmf-var/font
+s/pk/ljfour/lh/lh-t2a/labi1440.600pk> </home/arbon/.texlive2021/texmf-var/fonts
+/pk/ljfour/lh/lh-t2a/labx1728.600pk> </home/arbon/.texlive2021/texmf-var/fonts/
+pk/ljfour/jknappen/ec/tcrm1440.600pk> </home/arbon/.texlive2021/texmf-var/fonts
+/pk/ljfour/lh/lh-t2a/larm1440.600pk> </home/arbon/.texlive2021/texmf-var/fonts/
+pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/arbon/.texlive2021/texmf-var/fonts/p
+k/ljfour/lh/lh-t2a/labx2074.600pk>
+Output written on main.pdf (11 pages, 187388 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 327 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 40 words of extra memory for PDF output out of 10000 (max. 10000000)
 
