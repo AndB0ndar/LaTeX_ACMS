@@ -27,11 +27,14 @@
 	frame=single,
 	captionpos=t,
 	tabsize=4,
-	columns=flexible,
+	breaklines,
+	columns=fullflexible,
+    flexiblecolumns,
     keepspaces=true,
 	showspaces=flase,
 	showstringspaces=false,
-	showtabs=false
+	showtabs=false,
+    extendedchars=\true
 }
 
 \usepackage{longtable}
@@ -70,5 +73,5 @@
 }{
 	\end{figure}
 }
-\newcommand\includegrph[1]{\includegraphics[width=1\textwidth]{#1}}
+\newcommand\includegrph[2][width=1\textwidth]{\includegraphics[#1]{#2}}
 
